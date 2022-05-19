@@ -1,19 +1,7 @@
-# PortfolioProjects
-Completed projects that are focused on skills used for data analysis. 
+#COVID-19 Data Exploration/Analysis
 
-SQL:
-CTE's,
-Subqueries,
-Joins,
-Temp Tables
-
-Tableau:
-Dashboards,
-Visualization
-
-Excel:
-IF statements,
-Basic Functions,
-Data Visualization,
-Pivot Tables,
-VLookup
+Shows work with:
+Matplotlib
+Seaborn
+PivotTables 
+SQL queries
