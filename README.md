@@ -6,11 +6,7 @@ Shows work with:
 
 Matplotlib
 
-Seaborn
-
-PivotTables 
-
-Microsoft Excel
+Plotly
 
 SQL queries
 
