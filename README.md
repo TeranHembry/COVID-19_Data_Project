@@ -10,5 +10,7 @@ Plotly
 
 SQL queries
 
+Tableau Dashboards https://public.tableau.com/app/profile/teran.hembry/viz/COVID-19AcrosstheWorld/Dashboard1
+
 APA Citation:
 Ritchie, H., Mathieu, E., Rodés-Guirao, L., Appel, C., Giattino, C., Ortiz-Ospina, E., Hasell, J., Macdonald, B., Beltekian, D., &amp; Roser, M. (2020, March 5). Coronavirus (COVID-19) deaths. Our World in Data. Retrieved March 19, 2022, from https://ourworldindata.org/covid-deaths 
